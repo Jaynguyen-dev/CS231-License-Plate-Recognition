@@ -76,11 +76,12 @@ This project uses two datasets for the two-stage recognition pipeline.
 
 ### License Plate Detection Dataset
 
-https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view?usp=sharing
+https://drive.google.com/drive/folders/1gdQZTLgKhCaxUdXjSiXh5xjN2O-GE-hZ
 
 ### Character Detection Dataset
 
-https://drive.google.com/file/d/1bPux9J0e1mz-_Jssx4XX1-wPGamaS8mI/view?usp=sharing
+https://drive.google.com/drive/folders/12jyaMEa9CRkypgz2rk9lqRE2SNtPyEsk?usp=sharing
+
 ## Training
 
 Training notebooks are available in the `training/` directory.
